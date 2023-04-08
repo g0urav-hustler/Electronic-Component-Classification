@@ -1,0 +1,19 @@
+base:
+  project: Electronic Component Classification
+  random_state: 50
+   
+data:
+  source: data/external/test_data/Diode/images (4)
+data_source:
+  s3_source: data/external/
+
+load_data:
+  raw_dataset_csv: data/raw/
+
+split_data:
+  train_path: data/processed/
+  test_path: data/processed/
+  
+
+
+
