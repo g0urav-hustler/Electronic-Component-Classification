@@ -1,0 +1,5 @@
+outs:
+- md5: d7f83bb1d548fd8e6a776a816b83ca0d.dir
+  size: 68104
+  nfiles: 4
+  path: Inductor
