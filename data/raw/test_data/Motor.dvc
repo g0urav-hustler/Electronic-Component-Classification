@@ -1,0 +1,5 @@
+outs:
+- md5: b5a95e16b48a9596bdf564b68d6be0b9.dir
+  size: 13318
+  nfiles: 3
+  path: Motor

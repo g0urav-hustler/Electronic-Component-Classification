@@ -1,0 +1,22 @@
+0 Ammature
+1 Automative fuse
+2 Battery
+3 Cartridge Fuse
+4 Ceramic Capacitor
+5 Clip Lead
+6 Crystals
+7 Diode
+8 Electrolytic Capcitor
+9 Heat Sink
+10 Inductor
+11 Led
+12 Microprocessor
+13 Mosfet
+14 Motor
+15 Potentiometer
+16 Resistor
+17 Rheostat
+18 Shunt
+19 Switch
+20 Transformer
+21 Transitor

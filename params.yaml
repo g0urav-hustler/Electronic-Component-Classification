@@ -3,16 +3,20 @@ base:
   random_state: 50
    
 data:
-  source: data/external/test_data/Diode/images (4)
-data_source:
-  s3_source: data/external/
+  raw: 
+    train_data: data/raw/train_data
+    test_data: data/raw/test_data
+  
+  processed:
+    train_data: data/processed/train_data
+    test_data: data/processed/test_data
 
-load_data:
-  raw_dataset_csv: data/raw/
+images_parameter:
+  image_size : [224,224]
+  num_processed_train_images: 20
+  num_processed_test_images: 4
 
-split_data:
-  train_path: data/processed/
-  test_path: data/processed/
+categories_file_path : src/categories.json
   
 
 

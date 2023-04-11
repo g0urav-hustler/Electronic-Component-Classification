@@ -1,0 +1,5 @@
+outs:
+- md5: 7cc9e7cc8bbb1fdd8207eda32c66f832.dir
+  size: 14551
+  nfiles: 3
+  path: Potentiometer
