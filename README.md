@@ -3,7 +3,7 @@
 
   
 
-**HTTP URL -** https://hjsez50fb9.execute-api.us-east-1.amazonaws.com/image_pred_func
+**WEB URL** https://electronic-component-classification.onrender.com
 
 ## Overview
 
